@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>65001</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID aadb9722-89c6-4631-9e92-9a74f576812b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Default</_name>
+			<Annotations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Annotations>
+			<_modifiedTimeWeak type="a">7.18.2021::7:53:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.18.2021::7:53:49</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.18.2021::7:53:49</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID bff95f1a-3345-43c5-a4f8-024723ce650a</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID bff95f1a-3345-43c5-a4f8-024723ce650a</value>
+				<value>GUID 5e4a745e-c303-4dcc-b590-f0ea4d77c509</value>
+				<value>GUID 348851c8-a1e6-4345-ad5b-cabd7755f85f</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID bff95f1a-3345-43c5-a4f8-024723ce650a</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IMatrixLayout type="e">
+			<_id type="a">GUID 5e4a745e-c303-4dcc-b590-f0ea4d77c509</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">matrixlayout_0</_name>
+			<_modifiedTimeWeak type="a">7.18.2021::7:50:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.18.2021::7:50:12</_modifiedTime>
+			<FromElementTypes type="c">
+				<IRPYRawContainer type="e">
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 5e4a745e-c303-4dcc-b590-f0ea4d77c509</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Requirement</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+				</IRPYRawContainer>
+			</FromElementTypes>
+			<ToElementTypes type="c">
+				<IRPYRawContainer type="e">
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 5e4a745e-c303-4dcc-b590-f0ea4d77c509</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">UseCase</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+				</IRPYRawContainer>
+			</ToElementTypes>
+			<CellElementTypes type="c">
+				<IRPYRawContainer type="e">
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 5e4a745e-c303-4dcc-b590-f0ea4d77c509</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Derivation</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+				</IRPYRawContainer>
+			</CellElementTypes>
+		</IMatrixLayout>
+		<IMatrixInstance type="e">
+			<_id type="a">GUID 348851c8-a1e6-4345-ad5b-cabd7755f85f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Matriz de Trazabilidad</_name>
+			<_modifiedTimeWeak type="a">7.18.2021::7:53:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.18.2021::7:53:49</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IMatrixLayout</_hm2Class>
+					<_hid type="a">GUID 5e4a745e-c303-4dcc-b590-f0ea4d77c509</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<FromScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Requisitos.sbsx</_hfilename>
+							<_hname type="a">Requisitos</_hname>
+							<_hid type="a">GUID 5de4de3c-dd15-4efb-887c-e65d5be61de8</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</FromScopeHandles>
+			<ToScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+							<_hname type="a">MCUS</_hname>
+							<_hid type="a">GUID 26cd92de-111a-4e56-bffd-8e196566fda4</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ToScopeHandles>
+		</IMatrixInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

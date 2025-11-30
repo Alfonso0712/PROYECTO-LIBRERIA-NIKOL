@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>65001</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6e557ad1-342a-44ab-9459-11030e716c72</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Model</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\SEMANA 03\all profiles\profiles\DesignProfile\DesignModel.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignModel</_hsubsystem>
+							<_hname type="a">Layer</_hname>
+							<_hid type="a">GUID b6902a2d-ecf4-4ebd-89b1-12a076bc710a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.18.2021::5:5:59</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Capas.sbsx</_hfilename>
+					<_hsubsystem type="a">Modelo_Diseno::Capas</_hsubsystem>
+					<_hname type="a">Capas de diseno</_hname>
+					<_hid type="a">GUID ae6c2317-f242-4388-9264-14cdb5d93455</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.18.2021::5:5:59</_modifiedTime>
+			<weakCGTime type="a">7.18.2021::5:5:59</weakCGTime>
+			<strongCGTime type="a">7.18.2021::5:5:59</strongCGTime>
+			<_defaultComposite type="s">GUID fc2c1acd-9ce3-48c8-bda3-37b7cc6ae731</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID fc2c1acd-9ce3-48c8-bda3-37b7cc6ae731</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID fc2c1acd-9ce3-48c8-bda3-37b7cc6ae731</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
